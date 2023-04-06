@@ -9,11 +9,11 @@ import quran_audio
 
 
 
-API_ID = ايبي ايدي
+API_ID = "22616077"
 
-API_HASH = "ايبي هاش"
+API_HASH = "6b6dcf52d0ede34e6de5cc473238f055"
 
-TOKEN = "توكن البوت" 
+TOKEN = "5866959530:AAGl42ObcKCaiKhb_2IlKePPD8cjWgqY2ic" 
 
 app = Client(":memory:", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 
