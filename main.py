@@ -17,11 +17,6 @@ TOKEN = "5866959530:AAGl42ObcKCaiKhb_2IlKePPD8cjWgqY2ic"
 
 app = Client(":memory:", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 
-#######تم حل المشاكل بوسطه #############
-
-Semo : @S_E_M_O_E_L_K_B_E_R
-EsLam : @CMCC3
-#################ملحوظه الملف ليس كتابتنا لقد تم حل المشكله فقط☺️##########
 
 
 def get_prayer_time(city):
