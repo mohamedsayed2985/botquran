@@ -9,7 +9,7 @@ import quran_audio
 
 
 
-API_ID = "22616077"
+API_ID = 22616077
 
 API_HASH = "6b6dcf52d0ede34e6de5cc473238f055"
 
